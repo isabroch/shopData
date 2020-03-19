@@ -58,5 +58,65 @@
     "name": "Dentofind",
     "price": 37375,
     "stock": 52
+  },
+  {
+    "id": "PR011",
+    "name": "Unaremex",
+    "price": 970556,
+    "stock": 78
+  },
+  {
+    "id": "PR012",
+    "name": "Ding dubnix",
+    "price": 272619,
+    "stock": 28
+  },
+  {
+    "id": "PR013",
+    "name": "Sun-san",
+    "price": 301741,
+    "stock": 42
+  },
+  {
+    "id": "PR014",
+    "name": "Tam ranlam",
+    "price": 320356,
+    "stock": 2
+  },
+  {
+    "id": "PR015",
+    "name": "Bluelex",
+    "price": 941544,
+    "stock": 14
+  },
+  {
+    "id": "PR016",
+    "name": "Airozeis",
+    "price": 561738,
+    "stock": 46
+  },
+  {
+    "id": "PR017",
+    "name": "Good-fin",
+    "price": 977507,
+    "stock": 2
+  },
+  {
+    "id": "PR018",
+    "name": "Vila zamstock",
+    "price": 463990,
+    "stock": 63
+  },
+  {
+    "id": "PR019",
+    "name": "Nam-nam",
+    "price": 199916,
+    "stock": 48
+  },
+  {
+    "id": "PR020",
+    "name": "Finsing",
+    "price": 983684,
+    "stock": 76
   }
 ]}
